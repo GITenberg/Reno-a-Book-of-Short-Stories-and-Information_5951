@@ -1,5 +1,5 @@
 _repo: Reno-a-Book-of-Short-Stories-and-Information_5951
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ subjects:
 - !lcsh 'Divorce -- Nevada'
 - !lcsh 'Reno (Nev.)'
 - !lcsh 'Reno (Nev.) -- Fiction'
+- GITenberg
 tableOfContents: Social and industrial life -- Reno tragedies -- Reno romance -- Reno
   comedies -- Reno and its people -- Nevada divorce laws -- Sons of the Sagebrush.
 title: Reno — a Book of Short Stories and Information
